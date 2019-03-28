@@ -1,0 +1,16 @@
+API guide
+
+Unprotected routes
+  - GET survey 
+  - POST survey
+
+Protected routes
+  - GET vehicle
+  - POST vehicle
+  - GET allvehicles
+
+  - GET company
+  - POST company
+
+  - GET template
+  - POST template
